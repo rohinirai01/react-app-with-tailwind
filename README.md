@@ -1,2 +1,2 @@
-# react_redux__test
+# react-app-with-tailwind
 React-Redux with Tailwind
